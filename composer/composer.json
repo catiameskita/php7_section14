@@ -1,0 +1,13 @@
+{
+    "name": "catiameskita/composer",
+    "description": "test for php7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Cátia Mesquita",
+            "email": "catiasofiamesquita@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

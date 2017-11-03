@@ -1,0 +1,4 @@
+command injection:
+
+exec — Execute an external program
+system — Execute an external program and display the output
